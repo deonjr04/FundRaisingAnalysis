@@ -1,21 +1,19 @@
 # FundRaisingAnalysis
-
-# Kickstarting with Excel
 When I first got the document I had to sort out the data 
 
 ## Overview of Project
 The document was about Fund Raising 
 
 ### Purpose
-The purpose was about fund raising and how much money they made of over time
+The purpose was about fund raising and how much money they made of over time the different campaigns fared in relation to their launch dates and their funding goals. I combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. 
 
 ## Analysis and Challenges
-I had to get to count, and the sum of all the data and put them in a chart to make the data easy to read
+I had to get to count, and the sum of all the data and put them in a chart to make the data easy to read.
 
 ### Analysis of Outcomes Based on Launch Date
 
 ![](resourses/outcomes_based_launch_date.png)
-It was very successful in raising money for lunch
+In May the fund raising reaches the highest peak of funding. But in Dec it reaches it lowest point in the fund raising.
 ### Analysis of Outcomes Based on Goals
 
 They raised lots of money to there goal
@@ -23,7 +21,7 @@ They raised lots of money to there goal
 
 The main thing I had problems was sorting out some of the data
 ## Results
-The overall result was good and they raisied lots of money in there fund raising. 
+The overall result was good and they raisied lots of money in there fund raising. The only real challenges I had was finding out what code goes to what. But after reading it more and looking up some examples I got it figure it out in the long run.
 
 
 
