@@ -23,3 +23,4 @@ They raised lots of money to there goal
 The main thing I had problems was sorting out some of the data
 ## Results
 The overall result was good and they raisied lots of money in there fund raising
+![dashboard3](https://github.com/deonjr04/FundRaisingAnalysis/assets/146729697/40fa1b18-5284-47f6-ac2c-3e86a36a73d8)
