@@ -17,7 +17,7 @@ I had to get to count, and the sum of all the data and put them in a chart to ma
 It was very successful in raising money for lunch
 ### Analysis of Outcomes Based on Goals
 
-The goal was met 
+They raised lots of money to there goal
 ### Challenges and Difficulties Encountered
 
 The main thing I had problems was sorting out some of the data
