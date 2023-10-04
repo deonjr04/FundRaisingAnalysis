@@ -22,5 +22,23 @@ They raised lots of money to there goal
 
 The main thing I had problems was sorting out some of the data
 ## Results
-The overall result was good and they raisied lots of money in there fund raising
-![dashboard3](https://github.com/deonjr04/FundRaisingAnalysis/assets/146729697/40fa1b18-5284-47f6-ac2c-3e86a36a73d8)
+The overall result was good and they raisied lots of money in there fund raising. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![dashboard](https://github.com/deonjr04/FundRaisingAnalysis/assets/146729697/9cda1f9e-4c75-4d8e-bf21-081e0e302737)
+![dashboard2](https://github.com/deonjr04/FundRaisingAnalysis/assets/146729697/fc0ddf51-8d16-481b-a11b-d60fa0be6c2b)
+![dashboard3](https://github.com/deonjr04/FundRaisingAnalysis/assets/146729697/34485261-58e7-4d56-a1e3-d2f7ba099f6e)
+![dashboard4](https://github.com/deonjr04/FundRaisingAnalysis/assets/146729697/ee15186c-a87b-4022-b2bd-3ba96d13316b)
+![dashboard4](https://github.com/deonjr04/FundRaisingAnalysis/assets/146729697/1db15db3-3620-4c9a-861e-e6c7acafb273)
