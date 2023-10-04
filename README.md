@@ -14,7 +14,7 @@ I had to get to count, and the sum of all the data and put them in a chart to ma
 
 ### Analysis of Outcomes Based on Launch Date
 
-!(resourses/outcomes_based_launch_date.png)
+![](resourses/outcomes_based_launch_date.png)
 It was very successful in raising money for lunch
 ### Analysis of Outcomes Based on Goals
 
